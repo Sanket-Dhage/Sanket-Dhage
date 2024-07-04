@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sanket Dhage</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Undergraduate;Mern+Stack+Developer;DS%20|%20UI%20|%20UX%20;React+developer&center=true&width=500&height=40"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=frontend;Mern+Stack+Developer;DS%20|%20UI%20|%20UX%20;React+developer&center=true&width=500&height=40"></a>
 </p>
 <p align="center">
   <em>
@@ -52,8 +52,8 @@
   </a>
   <br>
   
-<p align="right" > Created🖤 by <a href="https://heyaman.vercel.app/">AmanKohare</a></p>
+<p align="right" > Created🖤 by <a href="https://heyaman.vercel.app/">Sanket dhage</a></p>
 <hr/>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=amankohare0514&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Sanket-Dhage&&style=flat-square" align="center" />
 </div>
