@@ -32,7 +32,7 @@
 <hr/>
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="[https://www.linkedin.com/in/aman-kohare-3a0678235/](https://www.linkedin.com/in/sanket-dhage-028a78274/)">
+  <a href="https://www.linkedin.com/in/sanket-dhage-028a78274/">
    <img align="left" alt=" sanket dhage | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDQsBVvzdKDjVrBcPlkqtKzPtSXjhzkcTKQdGrvWQTSNlqtQWdKhTfRHBcvgnJNZlLxgjt">
