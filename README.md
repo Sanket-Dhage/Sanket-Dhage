@@ -35,24 +35,24 @@
   <a href="https://www.linkedin.com/in/sanket-dhage-028a78274/">
    <img align="left" alt=" sanket dhage | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDQsBVvzdKDjVrBcPlkqtKzPtSXjhzkcTKQdGrvWQTSNlqtQWdKhTfRHBcvgnJNZlLxgjt">
-    <img align="left" alt="aman kohare | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl">
+    <img align="left" alt="sanket dhage| Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://twitter.com/Aman__0514">
-    <img align="left" alt="aman kohare| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  <a href="https://x.com/Sankya_3_9">
+    <img align="left" alt="sanket dhage| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>
-  <a href="https://www.instagram.com/aman__0514/">
-    <img align="left" alt="aman kohare | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  <a href="https://www.instagram.com/san_kya_3_9/">
+    <img align="left" alt="sanket dhage | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-   <a href="https://www.facebook.com/aman.kohare.79">
-    <img align="left" alt="aman kohare| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+   <a href="">
+    <img align="left" alt="sanket dhage| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>
-   <a href="https://github.com/Amankohare0514">
-    <img align="left" alt="aman kohare| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+   <a href="https://github.com/Sanket-Dhage/Sanket-Dhage/">
+    <img align="left" alt="sanket dhage| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
   
-<p align="right" > Created🖤 by <a href="https://heyaman.vercel.app/">Sanket dhage</a></p>
+<p align="right" > Created🖤 by <a href="https://heysanket.vercel.app/">Sanket dhage</a></p>
 <hr/>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Sanket-Dhage&&style=flat-square" align="center" />
